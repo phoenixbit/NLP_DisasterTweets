@@ -1,6 +1,6 @@
 numpy==1.24.4
 pandas==1.4.4
-scikit-learn==1.0.2
+scikit-learn==1.5.2
 nltk==3.7
 tensorflow==2.15.0
 transformers==4.16.2  
