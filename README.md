@@ -5,7 +5,7 @@ Project utilizing NLP to identify tweets related to actual disasters. This initi
 
 
 ## Dataset
-Dataset taken from Kaggle [https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv](dataset) where the data relates to tweets from the platform X (formerly popularly known as Twitter).
+Dataset taken from Kaggle [dataset]([dataset](https://www.kaggle.com/competitions/nlp-getting-started/data?select=train.csv)) where the data relates to tweets from the platform X (formerly popularly known as Twitter).
 
 There are 10746 entries in the train and test files together.
 
